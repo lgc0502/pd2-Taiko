@@ -110,6 +110,13 @@ hardWindow::hardWindow(QWidget *parent) :
 }
 
 void hardWindow::keyPressEvent(QKeyEvent *event){
+    if(fy>=400&&fy<=600){
+        if(event->key()==Qt::Key_B){
+            contime=contime+10;
+            fx=(rand()%1000);
+            ui->flower->move(fx,-100);
+        }
+    }
 
     if(h1>=80&&h1<=150){
         if(event->key()==Qt::Key_F){
