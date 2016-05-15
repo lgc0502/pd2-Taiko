@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/33">
+        <file>gamewindow-2.png</file>
+    </qresource>
+</RCC>

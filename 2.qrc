@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/drummusic">
+        <file>Gomu Gomu Nonew.wav</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/all">
+        <file>exit - 3.png</file>
+        <file>gamewindow-1.png</file>
+        <file>return - 7.png</file>
+        <file>start.png</file>
+        <file>startwindow - 1.png</file>
+        <file>videoplayback_1_.mp3</file>
+        <file>videoplayback_5_.mp3</file>
+        <file>videoplayback_7_.mp3</file>
+        <file>videoplayback_8_.mp3</file>
+        <file>videoplayback6.mp3</file>
+        <file>scorewindow.png</file>
+    </qresource>
+</RCC>

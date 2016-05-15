@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>videoplayback_1_.mp3</file>
+        <file>videoplayback_5_.mp3</file>
+        <file>videoplayback_7_.mp3</file>
+        <file>videoplayback_8_.mp3</file>
+        <file>videoplayback6.mp3</file>
+        <file>1.qrc</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>music.qrc</file>
+    </qresource>
+</RCC>

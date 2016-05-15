@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/hard">
+        <file>hard1- 12.jpg</file>
+        <file>hard1- 121.jpg</file>
+        <file>hard1- 122.jpg</file>
+        <file>hard1- 123.jpg</file>
+        <file>hard1- 124.jpg</file>
+        <file>hard1- 125.jpg</file>
+        <file>hard1- 126.jpg</file>
+        <file>hard1- 127.jpg</file>
+        <file>hard1- 128.jpg</file>
+        <file>hard1- 129.jpg</file>
+    </qresource>
+</RCC>

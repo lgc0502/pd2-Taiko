@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>drum- 7.png</file>
+        <file>drum2.qrc</file>
+    </qresource>
+</RCC>

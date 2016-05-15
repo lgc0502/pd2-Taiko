@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/score">
+        <file>luffyKV.png</file>
+    </qresource>
+</RCC>
